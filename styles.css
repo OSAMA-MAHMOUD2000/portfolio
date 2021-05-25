@@ -19,15 +19,21 @@ a {
   border-radius: 50%;
   margin-left: 300px;
 }
-
+h1{
+  font-size: 2.5rem;
+    font-family: 'Sacramento', cursive;
+}
 .text1 {
   float: right;
   padding-right: 300px;
 }
+#button{
+  margin-top: 30px;
+}
 /* second-container */
 .second-container{
   text-align: center;
-  margin: 150px 0;
+  margin: 40px 0;
 
 }
 .first-text{
